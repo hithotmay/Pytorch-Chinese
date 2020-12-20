@@ -2,7 +2,7 @@
 '''
 应用范围：计算机视觉，自然语言处理NLP
 '''
-# 参考'https://baike.baidu.com/item/前馈神经网络'
+# 参考'https://baike.baidu.com/item/卷积神经网络'
 '''
 卷积神经网络（Convolutional Neural Networks, CNN）
 是一类包含卷积计算且具有深度结构的前馈神经网络（Feedforward Neural Networks），
