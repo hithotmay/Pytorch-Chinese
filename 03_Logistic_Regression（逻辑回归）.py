@@ -40,7 +40,7 @@ model = nn.Linear(input_size, num_classes)
 # Loss and optimizer
 # 损失函数和优化器
 # nn.CrossEntropyLoss() computes softmax internally
-# 交叉熵损失
+# 交叉熵损失-在内部计算softmax
 criterion = nn.CrossEntropyLoss()  
 optimizer = torch.optim.SGD(model.parameters(), lr=learning_rate)  
 
