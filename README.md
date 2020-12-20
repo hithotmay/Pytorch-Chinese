@@ -4,7 +4,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 This repository provides tutorial code for deep learning researchers to learn PyTorch. In the tutorial, most of the models were implemented with less than 30 lines of code. Before starting this tutorial, it is recommended to finish Official Pytorch Tutorial.
 
-
 Table of Contents
 1. Basics
 PyTorch Basics
